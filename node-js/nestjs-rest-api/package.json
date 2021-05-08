@@ -31,7 +31,7 @@
     "redis": "^2.7.1",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.0.0",
-    "typeorm": "^0.2.5",
+    "typeorm": "^0.2.25",
     "typescript": "^2.6.2",
     "winston": "^2.4.1"
   },
