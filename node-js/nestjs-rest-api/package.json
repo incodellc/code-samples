@@ -20,7 +20,7 @@
     "@nestjs/websockets": "^5.0.0",
     "bcrypt": "^2.0.1",
     "class-transformer": "^0.1.9",
-    "class-validator": "^0.8.5",
+    "class-validator": "^0.14.0",
     "cli-color": "^1.2.0",
     "jsonwebtoken": "^8.2.1",
     "lodash": "^4.17.5",
